@@ -1,0 +1,633 @@
+{
+    "challenge": {
+        "title": "寻找 .NET 达人学习挑战赛｜.NET 移动应用",
+        "description": "2002年2月，.NET 发布。  \r\n\r\n如今，.NET 引领了从超大规模云到最小规模物联网设备的跨芯片组和工作负载的跨平台开发。  \r\n\r\n今年是 .NET 发布20周年。值此20周年之际，我们特面向所有对 .NET 技术感兴趣的开发者和初学者，准备了这次 .NET 学习挑战赛。  \r\n\r\n我们将 .NET 入门到应用的过程拆分成三个内容模块，通过 C# 语言学习、ASP.NET 开发、.NET 移动应用三个部分的学习，引导大家从零上手这一免费、开源、跨平台的开发平台。  本次挑战赛为第 3 模块：.NET 移动应用\r\n\r\n关注公众号 MSReactor，回复 .NET 加入 .NET 20周年挑战赛交流群。 ",
+        "start": "2022-04-25T11:00:00Z",
+        "end": "2022-05-20T16:00:00Z",
+        "durationInDays": 30,
+        "challengeCollectionId": [
+            "moqrt7yq3z0r"
+        ],
+        "type": 2,
+        "hasTeamIndividualRank": true,
+        "maxTeamMembers": 100,
+        "teamAssignmentMethod": null,
+        "eventRulesUrl": "https://aka.ms/dotNETCSCRules",
+        "emailRequired": true,
+        "dotSourceNewsletterReg": true,
+        "isEnrolled": true,
+        "teamList": null
+    },
+    "count": 116,
+    "myScore": {
+        "rank": 21,
+        "score": 26.0,
+        "userDisplayName": "Shiqiang Sang",
+        "teamId": null
+    },
+    "totalScoreUnits": 26,
+    "myTeamScore": null,
+    "results": [
+        {
+            "rank": 1,
+            "score": 26.0,
+            "userDisplayName": "         Hao Hu",
+            "teamId": null
+        },
+        {
+            "rank": 2,
+            "score": 26.0,
+            "userDisplayName": "Alex1911",
+            "teamId": null
+        },
+        {
+            "rank": 3,
+            "score": 26.0,
+            "userDisplayName": "Asjun",
+            "teamId": null
+        },
+        {
+            "rank": 4,
+            "score": 26.0,
+            "userDisplayName": "bei wang",
+            "teamId": null
+        },
+        {
+            "rank": 5,
+            "score": 26.0,
+            "userDisplayName": "bing",
+            "teamId": null
+        },
+        {
+            "rank": 6,
+            "score": 26.0,
+            "userDisplayName": "Bruce Li",
+            "teamId": null
+        },
+        {
+            "rank": 7,
+            "score": 26.0,
+            "userDisplayName": "bu lu",
+            "teamId": null
+        },
+        {
+            "rank": 8,
+            "score": 26.0,
+            "userDisplayName": "Cownxu",
+            "teamId": null
+        },
+        {
+            "rank": 9,
+            "score": 26.0,
+            "userDisplayName": "Figo",
+            "teamId": null
+        },
+        {
+            "rank": 10,
+            "score": 26.0,
+            "userDisplayName": "guanyc",
+            "teamId": null
+        },
+        {
+            "rank": 11,
+            "score": 26.0,
+            "userDisplayName": "Hello Digger",
+            "teamId": null
+        },
+        {
+            "rank": 12,
+            "score": 26.0,
+            "userDisplayName": "huangtairan",
+            "teamId": null
+        },
+        {
+            "rank": 13,
+            "score": 26.0,
+            "userDisplayName": "Jack gu",
+            "teamId": null
+        },
+        {
+            "rank": 14,
+            "score": 26.0,
+            "userDisplayName": "Jadyn",
+            "teamId": null
+        },
+        {
+            "rank": 15,
+            "score": 26.0,
+            "userDisplayName": "JaneConan",
+            "teamId": null
+        },
+        {
+            "rank": 16,
+            "score": 26.0,
+            "userDisplayName": "Jeremy Wang",
+            "teamId": null
+        },
+        {
+            "rank": 17,
+            "score": 26.0,
+            "userDisplayName": "juniordev",
+            "teamId": null
+        },
+        {
+            "rank": 18,
+            "score": 26.0,
+            "userDisplayName": "Kevin T",
+            "teamId": null
+        },
+        {
+            "rank": 19,
+            "score": 26.0,
+            "userDisplayName": "Liguo Xiang",
+            "teamId": null
+        },
+        {
+            "rank": 20,
+            "score": 26.0,
+            "userDisplayName": "Marvin Wang",
+            "teamId": null
+        },
+        {
+            "rank": 21,
+            "score": 26.0,
+            "userDisplayName": "Shiqiang Sang",
+            "teamId": null
+        },
+        {
+            "rank": 22,
+            "score": 26.0,
+            "userDisplayName": "Shuyue Wang",
+            "teamId": null
+        },
+        {
+            "rank": 23,
+            "score": 26.0,
+            "userDisplayName": "sunan911",
+            "teamId": null
+        },
+        {
+            "rank": 24,
+            "score": 26.0,
+            "userDisplayName": "Timothy",
+            "teamId": null
+        },
+        {
+            "rank": 25,
+            "score": 26.0,
+            "userDisplayName": "Tong Xu",
+            "teamId": null
+        },
+        {
+            "rank": 26,
+            "score": 26.0,
+            "userDisplayName": "TreeFrog",
+            "teamId": null
+        },
+        {
+            "rank": 27,
+            "score": 26.0,
+            "userDisplayName": "xl l",
+            "teamId": null
+        },
+        {
+            "rank": 28,
+            "score": 26.0,
+            "userDisplayName": "yang kaibo",
+            "teamId": null
+        },
+        {
+            "rank": 29,
+            "score": 26.0,
+            "userDisplayName": "Yifan Bian",
+            "teamId": null
+        },
+        {
+            "rank": 30,
+            "score": 26.0,
+            "userDisplayName": "youcai.yang",
+            "teamId": null
+        },
+        {
+            "rank": 31,
+            "score": 26.0,
+            "userDisplayName": "尘枫",
+            "teamId": null
+        },
+        {
+            "rank": 32,
+            "score": 26.0,
+            "userDisplayName": "帅帅 贺",
+            "teamId": null
+        },
+        {
+            "rank": 33,
+            "score": 26.0,
+            "userDisplayName": "建春",
+            "teamId": null
+        },
+        {
+            "rank": 34,
+            "score": 26.0,
+            "userDisplayName": "振耀 王",
+            "teamId": null
+        },
+        {
+            "rank": 35,
+            "score": 26.0,
+            "userDisplayName": "浩 孙",
+            "teamId": null
+        },
+        {
+            "rank": 36,
+            "score": 26.0,
+            "userDisplayName": "王自健",
+            "teamId": null
+        },
+        {
+            "rank": 37,
+            "score": 26.0,
+            "userDisplayName": "米菲爸爸",
+            "teamId": null
+        },
+        {
+            "rank": 38,
+            "score": 26.0,
+            "userDisplayName": "红心",
+            "teamId": null
+        },
+        {
+            "rank": 39,
+            "score": 26.0,
+            "userDisplayName": "翰林威 肖",
+            "teamId": null
+        },
+        {
+            "rank": 40,
+            "score": 26.0,
+            "userDisplayName": "芳升 赖",
+            "teamId": null
+        },
+        {
+            "rank": 41,
+            "score": 26.0,
+            "userDisplayName": "顺能 何",
+            "teamId": null
+        },
+        {
+            "rank": 42,
+            "score": 26.0,
+            "userDisplayName": "马骏",
+            "teamId": null
+        },
+        {
+            "rank": 43,
+            "score": 26.0,
+            "userDisplayName": "龙 龙",
+            "teamId": null
+        },
+        {
+            "rank": 44,
+            "score": 16.0,
+            "userDisplayName": "notfish li",
+            "teamId": null
+        },
+        {
+            "rank": 45,
+            "score": 16.0,
+            "userDisplayName": "Singh Wong",
+            "teamId": null
+        },
+        {
+            "rank": 46,
+            "score": 14.0,
+            "userDisplayName": "Fluffy lan",
+            "teamId": null
+        },
+        {
+            "rank": 47,
+            "score": 7.0,
+            "userDisplayName": "Long Zhang",
+            "teamId": null
+        },
+        {
+            "rank": 48,
+            "score": 6.0,
+            "userDisplayName": "杰瑞 瀚",
+            "teamId": null
+        },
+        {
+            "rank": 49,
+            "score": 5.0,
+            "userDisplayName": "jian",
+            "teamId": null
+        },
+        {
+            "rank": 50,
+            "score": 4.0,
+            "userDisplayName": "微软 张",
+            "teamId": null
+        },
+        {
+            "rank": 51,
+            "score": 4.0,
+            "userDisplayName": "泽木 王",
+            "teamId": null
+        },
+        {
+            "rank": 52,
+            "score": 3.0,
+            "userDisplayName": "angel lee",
+            "teamId": null
+        },
+        {
+            "rank": 53,
+            "score": 3.0,
+            "userDisplayName": "无梦生",
+            "teamId": null
+        },
+        {
+            "rank": 54,
+            "score": 3.0,
+            "userDisplayName": "长洪 余",
+            "teamId": null
+        },
+        {
+            "rank": 55,
+            "score": 2.0,
+            "userDisplayName": "会飞的鱼",
+            "teamId": null
+        },
+        {
+            "rank": 56,
+            "score": 1.0,
+            "userDisplayName": "DrSim",
+            "teamId": null
+        },
+        {
+            "rank": 57,
+            "score": 1.0,
+            "userDisplayName": "east.li",
+            "teamId": null
+        },
+        {
+            "rank": 58,
+            "score": 1.0,
+            "userDisplayName": "fulun tan",
+            "teamId": null
+        },
+        {
+            "rank": 59,
+            "score": 1.0,
+            "userDisplayName": "Hector Xiao",
+            "teamId": null
+        },
+        {
+            "rank": 60,
+            "score": 1.0,
+            "userDisplayName": "node no",
+            "teamId": null
+        },
+        {
+            "rank": 61,
+            "score": 1.0,
+            "userDisplayName": "willy",
+            "teamId": null
+        },
+        {
+            "rank": 62,
+            "score": 1.0,
+            "userDisplayName": "义杰 林",
+            "teamId": null
+        },
+        {
+            "rank": 63,
+            "score": 1.0,
+            "userDisplayName": "段献宇",
+            "teamId": null
+        },
+        {
+            "rank": 64,
+            "score": 1.0,
+            "userDisplayName": "王帅斌的QQ邮箱",
+            "teamId": null
+        },
+        {
+            "rank": 65,
+            "score": 1.0,
+            "userDisplayName": "瑞祥 章",
+            "teamId": null
+        },
+        {
+            "rank": 66,
+            "score": 0.0,
+            "userDisplayName": "                                      1ACE",
+            "teamId": null
+        },
+        {
+            "rank": 67,
+            "score": 0.0,
+            "userDisplayName": "AKA皇族宇少",
+            "teamId": null
+        },
+        {
+            "rank": 68,
+            "score": 0.0,
+            "userDisplayName": "Axiba _",
+            "teamId": null
+        },
+        {
+            "rank": 69,
+            "score": 0.0,
+            "userDisplayName": "buzh0o",
+            "teamId": null
+        },
+        {
+            "rank": 70,
+            "score": 0.0,
+            "userDisplayName": "CanMing Liang",
+            "teamId": null
+        },
+        {
+            "rank": 71,
+            "score": 0.0,
+            "userDisplayName": "Carson",
+            "teamId": null
+        },
+        {
+            "rank": 72,
+            "score": 0.0,
+            "userDisplayName": "Farb Guo",
+            "teamId": null
+        },
+        {
+            "rank": 73,
+            "score": 0.0,
+            "userDisplayName": "gaoxiang Ha",
+            "teamId": null
+        },
+        {
+            "rank": 74,
+            "score": 0.0,
+            "userDisplayName": "gu yu gui",
+            "teamId": null
+        },
+        {
+            "rank": 75,
+            "score": 0.0,
+            "userDisplayName": "HELLO DIGGER",
+            "teamId": null
+        },
+        {
+            "rank": 76,
+            "score": 0.0,
+            "userDisplayName": "huqi",
+            "teamId": null
+        },
+        {
+            "rank": 77,
+            "score": 0.0,
+            "userDisplayName": "Kai Feng",
+            "teamId": null
+        },
+        {
+            "rank": 78,
+            "score": 0.0,
+            "userDisplayName": "Kzzzzzzz",
+            "teamId": null
+        },
+        {
+            "rank": 79,
+            "score": 0.0,
+            "userDisplayName": "lei peng",
+            "teamId": null
+        },
+        {
+            "rank": 80,
+            "score": 0.0,
+            "userDisplayName": "Leo Zhou",
+            "teamId": null
+        },
+        {
+            "rank": 81,
+            "score": 0.0,
+            "userDisplayName": "li",
+            "teamId": null
+        },
+        {
+            "rank": 82,
+            "score": 0.0,
+            "userDisplayName": "Lukemong",
+            "teamId": null
+        },
+        {
+            "rank": 83,
+            "score": 0.0,
+            "userDisplayName": "Peater.Peater",
+            "teamId": null
+        },
+        {
+            "rank": 84,
+            "score": 0.0,
+            "userDisplayName": "test",
+            "teamId": null
+        },
+        {
+            "rank": 85,
+            "score": 0.0,
+            "userDisplayName": "Tony An",
+            "teamId": null
+        },
+        {
+            "rank": 86,
+            "score": 0.0,
+            "userDisplayName": "wangtao",
+            "teamId": null
+        },
+        {
+            "rank": 87,
+            "score": 0.0,
+            "userDisplayName": "WolverineKT",
+            "teamId": null
+        },
+        {
+            "rank": 88,
+            "score": 0.0,
+            "userDisplayName": "yong huang",
+            "teamId": null
+        },
+        {
+            "rank": 89,
+            "score": 0.0,
+            "userDisplayName": "zhenli wu",
+            "teamId": null
+        },
+        {
+            "rank": 90,
+            "score": 0.0,
+            "userDisplayName": "不取姓名",
+            "teamId": null
+        },
+        {
+            "rank": 91,
+            "score": 0.0,
+            "userDisplayName": "亮 张",
+            "teamId": null
+        },
+        {
+            "rank": 92,
+            "score": 0.0,
+            "userDisplayName": "冯烯燠",
+            "teamId": null
+        },
+        {
+            "rank": 93,
+            "score": 0.0,
+            "userDisplayName": "刘坤18855433808",
+            "teamId": null
+        },
+        {
+            "rank": 94,
+            "score": 0.0,
+            "userDisplayName": "勇 赵",
+            "teamId": null
+        },
+        {
+            "rank": 95,
+            "score": 0.0,
+            "userDisplayName": "周学平",
+            "teamId": null
+        },
+        {
+            "rank": 96,
+            "score": 0.0,
+            "userDisplayName": "嘉宗 姚",
+            "teamId": null
+        },
+        {
+            "rank": 97,
+            "score": 0.0,
+            "userDisplayName": "大师大师 大四的",
+            "teamId": null
+        },
+        {
+            "rank": 98,
+            "score": 0.0,
+            "userDisplayName": "安 坤",
+            "teamId": null
+        },
+        {
+            "rank": 99,
+            "score": 0.0,
+            "userDisplayName": "宏郭 郑",
+            "teamId": null
+        },
+        {
+            "rank": 100,
+            "score": 0.0,
+            "userDisplayName": "巧克力苏菜",
+            "teamId": null
+        }
+    ],
+    "lastBatchUpdate": null
+}
